@@ -1,0 +1,18 @@
+---
+title: "eod-practice"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+
+vec_a <- c(1, 6)
+vec_b <- c(2,4)
+
+vec_a + vec_b
+vec_b - vec_a
+2 * vec_a
+vec_a * vec_b
+```
+
